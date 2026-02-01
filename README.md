@@ -1,4 +1,8 @@
 
+<p align="center">
+  <img src="Images/profile_img.jpeg" width="300"  />
+</p>
+
 
 # Introduction
 
