@@ -1,6 +1,3 @@
-/* B"H
- */
-
 import { defineStore } from 'pinia'
 import { ref, computed, watch } from 'vue'
 import type { DataEnvelope, DataListEnvelope, Product } from '../../../server/types'

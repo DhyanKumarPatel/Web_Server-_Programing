@@ -1,5 +1,6 @@
-/* B"H
- */
+
+
+
 
 import { defineStore } from 'pinia'
 import type { DataListEnvelope, Product, User } from '../../../server/types'

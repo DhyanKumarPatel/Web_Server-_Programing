@@ -1,5 +1,3 @@
-/*  B"H
- */
 
 import { defineStore } from 'pinia'
 import type { User } from '../../../server/types'

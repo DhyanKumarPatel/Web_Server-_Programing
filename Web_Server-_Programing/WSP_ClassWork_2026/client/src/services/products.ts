@@ -1,6 +1,3 @@
-/* B"H
- */
-
 import useSessionStore from '../stores/session'
 import type { DataListEnvelope, Product } from '../../../server/types'
 
