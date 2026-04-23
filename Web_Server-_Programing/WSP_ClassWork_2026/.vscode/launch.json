@@ -46,18 +46,18 @@
   ],
   "compounds": [
     {
-      "name": "WSP Frontend: Vite + Edge",
+      "name": "Full Stack: Chrome + Backend",
       "configurations": [
-        "WSP Backend: Node",
-        "WSP Frontend: Vite + Edge"
+        "Backend: Debug Server",
+        "Frontend: Debug in Chrome"
       ],
       "stopAll": true
     },
     {
-      "name": "WSP Frontend: Edge (existing Vite server)",
+      "name": "Full Stack: Edge + Backend",
       "configurations": [
-        "WSP Backend: Node",
-        "WSP Frontend: Edge (existing Vite server)"
+        "Backend: Debug Server",
+        "Frontend: Debug in Edge"
       ],
       "stopAll": true
     }
