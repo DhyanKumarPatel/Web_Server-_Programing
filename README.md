@@ -1,23 +1,6 @@
-# WSP_project
+# 2026Spring
 
-<p align="center">
-  <img src="Images/profile_img.jpeg" width="300" />
-</p>
-
-## Introduction
-
-My name is **Dhyankumar Patel**, and I am a graduate student in **Computer Science at SUNY New Paltz**. I completed my undergraduate degree in **Information Technology** in India. During my undergraduate studies, I was actively involved in extracurricular activities and served as the **Treasurer for the College Event Committee**. In this role, I worked with my team to organize fundraisers, annual cultural nights, and open cricket tournaments. These experiences helped me strengthen my **leadership, coordination, and organizational skills**.
-
-## Academic Background
-
-During my undergraduate studies in Information Technology, I completed coursework in several core areas, including:
-
-- Data Structures
-- Software Engineering
-- Logic Design
-- Operating Systems
-- Internet of Things (IoT)
-- Machine Learning
+## The best class ever in history
 - Artificial Intelligence
 
 These subjects played a major role in inspiring me to pursue a **Master’s degree in Computer Science**.
